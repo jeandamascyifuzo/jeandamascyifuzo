@@ -72,11 +72,6 @@ src="https://img.shields.io/github/followers/heiskwizera?logo=github&style=for-t
   <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
 </p>
 
-
-GITHUB ACTIVITY GRAPH
-[Cyifuzo's github activity graph](https://activity-graph.herokuapp.com/graph?username=jeandamascyifuzo&theme=react-dark)
-
   </p>
- 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=:)&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&backgroundColor=tokyonight"/> 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
