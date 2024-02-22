@@ -10,11 +10,6 @@ Crafting Cutting-Edge Solutions as a Full-Stack Maestro: Mastering React, React 
 * ✉️  You can contact me at [jeancyifuzodamas@gmail.com](jeancyifuzodamas@gmail.com)
 * 🤝  I'm open to collaborating on Java, NodeJS, React, NextJs, Nest Projects
 
-<a href="https://www.twitter.com/heiskwizera" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/heiskwizera?logo=twitter&style=for-the-badge&color=0891b2&labelColor=181824"
-/></a><a href="https://www.github.com/heiskwizera" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/heiskwizera?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a>
-
 ### Skills
 
 <p align="left">
