@@ -7,7 +7,7 @@ Crafting Cutting-Edge Solutions as a Full-Stack Maestro: Mastering React, React 
 
 * 🌍  I'm based in Kigali
 <!-- * 🖥️  See my portfolio at [DEV KWIZERA](http://devkwizera.netlify.app/) -->
-* ✉️  You can contact me at [jeancyifuzodamas@gmail.com](jeancyifuzodamas@gmail.com)
+* ✉️  You can contact me at [Email](jeancyifuzodamas@gmail.com)
 * 🤝  I'm open to collaborating on Java, NodeJS, React, NextJs, Nest Projects
 
 ### Skills
